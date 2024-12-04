@@ -1,3 +1,5 @@
 https://www.youtube.com/watch?v=5YbrXQIoNa0
 
 https://phoenixnap.com/kb/install-maven-windows
+
+https://www.geeksforgeeks.org/how-to-install-gradle-on-windows/
